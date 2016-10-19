@@ -1,0 +1,38 @@
+h1 {
+    color: red;
+    text-align: center;
+    text-decoration: bold;
+    font-family: "Comic Sans Ms"
+
+}
+
+#anotherh1 {
+  color:green;
+  font-family: "Times New Roman"
+}
+
+#anotherh1:hover
+{
+  color: purple;
+  transform: translateY(2px);
+}
+
+#thisisadiv {
+  background-color: red;
+  height: 100px
+  width: 100px
+}
+
+#purple {
+  backgroun-color: purple;
+}
+
+.blog {
+  width: 90%;
+  height: 20%
+  border: 1px solid black;
+}
+
+#picture {
+  
+}
